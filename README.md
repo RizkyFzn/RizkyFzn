@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning ReactJS and NextJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email : rfauzan211@gmail.com
 
 <!---
 RizkyFzn/RizkyFzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
