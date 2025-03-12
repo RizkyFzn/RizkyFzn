@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RizkyFzn
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and NextJS
+- 🌱 I’m currently learning Mobile App and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email : rfauzan211@gmail.com
 
