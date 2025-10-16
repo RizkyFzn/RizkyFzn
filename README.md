@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Rizky Fauzan</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **ERP Development**
+- 🔭 I’m currently working on **ERP Development**, **WEB Development**, **Mobile Development**
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
